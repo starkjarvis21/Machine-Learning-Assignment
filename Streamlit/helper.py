@@ -4,7 +4,7 @@ import numpy as np
 from tensorflow import keras
 from tensorflow.keras.models import load_model
 from tensorflow.keras.preprocessing.image import load_img,img_to_array
-from keras.applications.imagenet_utils import preprocess_input, decode_predictions
+from tensorflow.keras.applications.imagenet_utils import preprocess_input, decode_predictions
 from tensorflow.python.keras import utils
 from PIL import Image
 import PIL
