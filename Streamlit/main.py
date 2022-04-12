@@ -10,7 +10,7 @@ sns.set_theme(style="darkgrid")
 
 sns.set()
 
-st.title('Object Detection ')
+st.title('Detection Done Here')
 
 def save_uploaded_file(uploaded_file):
 
