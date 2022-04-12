@@ -1,9 +1,8 @@
 keras
 pandas
 numpy
-opencv-python-headless==4.5.5.64
+opencv-python-headless
 h5py==3.1.0
 tensorflow
 tensorflow-gpu==2.5.0
-Keras-Preprocessing==1.1.2
 streamlit==1.2.0
